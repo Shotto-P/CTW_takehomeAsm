@@ -44,3 +44,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+
+
+******************************************************************************************************************************
+Because I have some difficulties finding the complete document of the material-tailwind css, and I found some of the components are not suitable in some cases, I have applied Chakra UI as well in the project, but normally, I will prefer only use one css framework to avoid confusion and interruption.
